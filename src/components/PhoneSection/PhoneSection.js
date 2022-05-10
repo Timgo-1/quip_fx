@@ -17,7 +17,7 @@ const PhoneSection = () => {
 		},
 		{
 			img: './images/phone3.png',
-			title: 'Convert and Hold 54 Currencies.',
+			title: 'Convert and Hold 54 Currencies',
 			description:
 				'Holding multiple currencies is completely free, and we use the real exchange rate to convert.',
 		},
@@ -35,7 +35,7 @@ const PhoneSection = () => {
 						{data.map((el, index) => (
 							<PhoneColumn align="center" key={index}>
 								<img width="80%" src={el.img} alt="" />
-								<Text as="h5" align="center" inverse bold fontSize="1.3rem">
+								<Text as="h4" align="center" inverse bold fontSize="1.3rem">
 									{el.title}
 								</Text>
 								<Text
