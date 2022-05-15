@@ -1,4 +1,3 @@
-# Modern UI/UX GPT-3
 ### [Live Site](https://quip-fx.ga/)
 
 ![Modern UI/UX Quip-Fx](https://i.ibb.co/ZWXqGZc/QUIP-FX.png)
